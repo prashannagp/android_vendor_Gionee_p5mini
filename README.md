@@ -1,0 +1,1 @@
+# android_vendor_Gionee_p5mini
