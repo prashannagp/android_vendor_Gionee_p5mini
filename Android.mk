@@ -1,0 +1,93 @@
+LOCAL_PATH := $(call my-dir)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := libtouchless_a3d
+LOCAL_SRC_FILES_32 := lib/libtouchless_a3d.so
+LOCAL_SRC_FILES_64 := lib64/libtouchless_a3d.so
+LOCAL_MULTILIB := both
+LOCAL_MODULE_CLASS := SHARED_LIBRARIES
+LOCAL_MODULE_SUFFIX := .so
+include $(BUILD_PREBUILT)
+ 
+include $(CLEAR_VARS)
+LOCAL_MODULE = libwvdrm_L3
+LOCAL_MODULE_CLASS = SHARED_LIBRARIES
+LOCAL_MODULE_SUFFIX = .so
+LOCAL_MULTILIB = 32
+LOCAL_SRC_FILES_32 = vendor/lib/libwvdrm_L3.so
+include $(BUILD_PREBUILT)
+ 
+include $(CLEAR_VARS)
+LOCAL_MODULE = libwvm
+LOCAL_MODULE_CLASS = SHARED_LIBRARIES
+LOCAL_MODULE_SUFFIX = .so
+LOCAL_MULTILIB = 32
+LOCAL_SRC_FILES_32 = vendor/lib/libwvm.so
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE = libWVStreamControlAPI_L3
+LOCAL_MODULE_CLASS = SHARED_LIBRARIES
+LOCAL_MODULE_SUFFIX = .so
+LOCAL_MULTILIB = 32
+LOCAL_SRC_FILES_32 = vendor/lib/libWVStreamControlAPI_L3.so
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE = libdrmwvmplugin
+LOCAL_MODULE_CLASS = SHARED_LIBRARIES
+LOCAL_MODULE_SUFFIX = .so
+LOCAL_MULTILIB = 32
+LOCAL_SRC_FILES_32 = vendor/lib/drm/libdrmwvmplugin.so
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE = audio.a2dp.blueangel
+LOCAL_MODULE_CLASS = SHARED_LIBRARIES
+LOCAL_MODULE_SUFFIX = .so
+LOCAL_MULTILIB = 32
+LOCAL_SRC_FILES_32 = vendor/lib/hw/audio.a2dp.blueangel.so
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE = bluetooth.blueangel
+LOCAL_MODULE_CLASS = SHARED_LIBRARIES
+LOCAL_MODULE_SUFFIX = .so
+LOCAL_MULTILIB = 32
+LOCAL_SRC_FILES_32 = vendor/lib/hw/bluetooth.blueangel.so
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE = libdrmclearkeyplugin
+LOCAL_MODULE_CLASS = SHARED_LIBRARIES
+LOCAL_MODULE_SUFFIX = .so
+LOCAL_MULTILIB = 32
+LOCAL_SRC_FILES_32 = vendor/lib/mediadrm/libdrmclearkeyplugin.so
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE = libmockdrmcryptoplugin
+LOCAL_MODULE_CLASS = SHARED_LIBRARIES
+LOCAL_MODULE_SUFFIX = .so
+LOCAL_MULTILIB = 32
+LOCAL_SRC_FILES_32 = vendor/lib/mediadrm/libmockdrmcryptoplugin.so
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE = libwvdrmengine
+LOCAL_MODULE_CLASS = SHARED_LIBRARIES
+LOCAL_MODULE_SUFFIX = .so
+LOCAL_MULTILIB = 32
+LOCAL_SRC_FILES_32 = vendor/lib/mediadrm/libwvdrmengine.so
+include $(BUILD_PREBUILT)
+
+ 
+include $(CLEAR_VARS)
+LOCAL_MODULE := KernelAdiutor
+LOCAL_SRC_FILES := app/$(LOCAL_MODULE).apk
+LOCAL_MODULE_TAGS := optional
+LOCAL_MODULE_SUFFIX := .apk
+LOCAL_MODULE_CLASS := APPS
+LOCAL_CERTIFICATE := PRESIGNED
+include $(BUILD_PREBUILT)
+

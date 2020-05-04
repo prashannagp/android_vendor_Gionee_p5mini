@@ -1,0 +1,205 @@
+[
+    {
+        "guid": "facebeauty",
+        "imgs": [
+        	{
+        		"url":"",
+        		"desc": ""
+        	},
+        	{
+        		"url":"file:///system/etc/gn_camera_feature/facebeauty/info/2.jpg",
+        		"desc": "默认的自然美颜能够识别你的年龄性别，并根据你的年龄性别实时给出最适合的美颜效果，操作起来也方便快捷。通过先进的处理技术在美颜的同时完美的保留照片细节，让自然美颜成为你的拍照神器。"
+        	},
+        	{
+        		"url":"file:///system/etc/gn_camera_feature/facebeauty/info/1.jpg",
+        		"desc": "如果你对默认自然美颜的效果还不满意，可以切换到DIY自定义模式，在自定义模式当中分别对美白、磨皮、瘦脸、大眼四个功能进行调节。"
+        	}
+        ]
+    } ,
+    {
+        "guid": "smartburst",
+        "imgs": [
+        	{
+        		"url":"",
+        		"desc": "随心拍通过先高速连拍多张照片，再对拍后的多张照片进行编辑的方式实现不同有趣、实用的拍摄效果，它主要由最佳拍照、轨迹拍照、群拍优选、运动模糊和行人移除这五大功能组成，这五个功能由于作用不同，拍摄时的场景和方法也略有不同。"
+        	},
+        	{
+        		"url":"file:///system/etc/gn_camera_feature/smartburst/info/1.jpg",
+        		"desc": "最佳拍照是随心拍里唯一不用任何条件就可以随时使用的功能，使用该功能时，系统会自动判断这组相片中最好的一张相片作为默认显示，你也可以自己选择更适合的相片。"
+        	},
+        	{
+        		"url":"file:///system/etc/gn_camera_feature/smartburst/info/2.jpg",
+        		"desc": "轨迹拍照是可以拍出许多神奇效果的功能，想要拍出有趣的轨迹效果，就要求在拍摄场景中有动态的物体，并且该物体要在拍摄中2-3秒的时间里有连贯的动作，拍后可以通过选择照片来生成理想的轨迹效果。"
+        	},
+        	{
+        		"url":"file:///system/etc/gn_camera_feature/smartburst/info/3.jpg",
+        		"desc": "群拍优选顾名思义，拍摄的场景中一定要出现人脸，最适合五人以内的多人拍摄。通过连拍捕捉每个人在拍摄过程中的表情，拍后可以分别对照片中的每个人的表情进行选择。"
+        	},
+        	{
+        		"url":"file:///system/etc/gn_camera_feature/smartburst/info/4.jpg",
+        		"desc": "运动模糊的使用同样需要在有运动物体的场景，我们可以将运动物体以外的背景进行模糊，还可以通过手动调节背景的模糊程度，使照片看起来更有动感，运动物体也会更加突出。"
+        	},
+        	{
+        		"url":"file:///system/etc/gn_camera_feature/smartburst/info/5.jpg",
+        		"desc": "当我们拍摄静物时，如检测到有行人、移动物体等，我们就可以通过行人移除功能选择这些运动物体是否出现在画面当中。"
+        	}
+        ]
+    } ,
+    {
+        "guid": "picfilter",
+        "imgs": [
+        	{
+        		"url":"",
+        		"desc": ""
+        	},
+        	{
+        		"url":"file:///system/etc/gn_camera_feature/picfilter/info/1.jpg",
+        		"desc": "滤镜功能内置了LOMO、朦胧、光晕、时光、美食、美容、甜蜜、复古、黑白共9种滤镜效果，每一个滤镜效果都经过精心调试，不同的滤镜效果会给照片带来特别的意境。"
+        	},
+        	{
+        		"url":"file:///system/etc/gn_camera_feature/picfilter/info/2.jpg",
+        		"desc": "实时预览的滤镜效果，可以在拍照的时候就看到拍后的效果，更方便操作的同时也更有利于实时取景，快来用滤镜功能拍出个性的大片吧！"
+        	}
+        ]
+    } ,
+    {
+        "guid": "magicfocus",
+        "imgs": [
+        	{
+        		"url":"",
+        		"desc": ""
+        	},
+        	{
+        		"url":"file:///system/etc/gn_camera_feature/magicfocus/info/1.jpg",
+        		"desc": "很多人都很喜欢背景虚化的照片，这样能够突出主体，使整个画面更有层次感。魔术对焦适用于大景深的拍摄环境，实现先拍照后对焦，让手机拍照更有乐趣。"
+        	},
+        	{
+        		"url":"file:///system/etc/gn_camera_feature/magicfocus/info/2.jpg",
+        		"desc": "用魔术对焦拍照后可以通过点击重新选择对焦点，无论前实后虚、还是前虚后实都不在话下。要提醒大家，用魔术对焦拍照时，前景与后景距离越大，虚化的效果越好哦！"
+        	}
+        ]
+    } ,
+    {
+        "guid": "picnote",
+        "imgs": [
+        	{
+        		"url":"",
+        		"desc": ""
+        	},
+        	{
+        		"url":"file:///system/etc/gn_camera_feature/picnote/info/1.jpg",
+        		"desc": "在会议、课堂等环境下，由于拍摄位置与板书没有对正，拍摄的照片里文本内容大多倾斜，并且在远距离拍摄文本内容不清晰。"
+        	},
+        	{
+        		"url":"file:///system/etc/gn_camera_feature/picnote/info/2.jpg",
+        		"desc": "文本矫正模式可以解决上述问题。拍后智能裁剪文本，将倾斜的文本自动矫正。变焦放大拍摄文本时，自动开启无损变焦，保证变焦后文本的清晰度。"
+        	}
+        ]
+    } ,
+    {
+        "guid": "superphoto",
+        "imgs": [
+        	{
+        		"url":"",
+        		"desc": ""
+        	},
+        	{
+        		"url":"file:///system/etc/gn_camera_feature/superphoto/info/1.jpg",
+        		"desc": "很多时候，使用手机拍摄的照片，想打印大尺寸的照片装裱在家里，照片却不够清晰。超像素通过算法技术，合成一张一亿像素的超清照片，可以打印成大尺寸照片或海报。"
+        	}
+        ]
+    } ,
+    {
+        "guid": "panorama",
+        "imgs": [
+        	{
+        		"url":"",
+        		"desc": ""
+        	},
+        	{
+        		"url":"file:///system/etc/gn_camera_feature/panorama/info/1.jpg",
+        		"desc": "想将更多的景色融入到一张照片吗?全景拍摄是通过多张普通照片进行拼合，拼合后可以生成长幅度全景图。在使用全景拍摄过程中顺着方向慢慢移动手机，拍摄过程保持镜头稳定，匀速拍摄。竖屏可拍摄左右方向全景照片，横屏可拍摄上下方向全景照片。"
+        	}
+        ]
+    } ,
+    {
+        "guid": "nightvideo",
+        "imgs": [
+        	{
+        		"url":"",
+        		"desc": ""
+        	},
+        	{
+        		"url":"file:///system/etc/gn_camera_feature/nightvideo/info/1.jpg",
+        		"desc": "为了拍摄各种色彩斑斓的美丽夜景，通过最新技术，大幅度降低噪点，让拍摄的物体更加清晰，细腻，细节更丰富。拍照过程中，保持镜头稳定，效果会更好。"
+        	},
+        	{
+        		"url":"file:///system/etc/gn_camera_feature/nightvideo/info/2.jpg",
+        		"desc": "在暗光环境下拍照，照片预览无法清晰呈现，实时夜景在预览时即可呈现清晰而较亮的拍照结果，让你在拍照前能预览拍后的效果。"
+        	}
+        ]
+    } ,
+    {
+        "guid": "autoscene",
+        "imgs": [
+        	{
+        		"url":"",
+        		"desc": ""
+        	},
+        	{
+        		"url":"file:///system/etc/gn_camera_feature/autoscene/info/2.jpg",
+        		"desc": "拍照的时候，我们无法知道当时的环境因素，使用智能场景能识别当前拍照环境，自动给出匹配场景拍摄效果，不需要手动调节任何参数，并且根据所处环境，自动切换场景。"
+        	},
+        	{
+        		"url":"file:///system/etc/gn_camera_feature/autoscene/info/1.jpg",
+        		"desc": "新增了去雾霾场景，在雾霾天气里拍摄照片减弱雾霾对拍摄的影响，拍摄照片里的建筑物体等更清晰。"
+        	}
+        ]
+    } ,
+    {
+        "guid": "singlehdr",
+        "imgs": [
+        	{
+        		"url":"",
+        		"desc": "HDR（High-Dynamic Range）即“高动态范围“图像，相比普通的图像，可以提供更多的动态方位和图像细节，让高光细节和暗部细节不会因为过亮或过暗而出现损失，能够真实、自然的展现效果。"
+        	},
+        	{
+        		"url":"file:///system/etc/gn_camera_feature/singlehdr/info/1.jpg",
+        		"desc": "HDR主要用于拍摄场景中同时有非常明亮和非常昏暗的区域时，比如逆光场景。与其他设备上HDR最不同的是，我们的HDR可以实时预览， 让大家在拍摄的过程中就能看到HDR处理后的效果。"
+        	},
+        	{
+        		"url":"file:///system/etc/gn_camera_feature/singlehdr/info/2.jpg",
+        		"desc": "使用HDR拍摄时要注意防抖，不适合在行动中进行拍摄，如行走、乘车等情况，同时拍夜景时也可以尝试用HDR进行拍摄，它会很好的控制噪点、保证色彩和亮度。"
+        	}
+        ]
+    } ,
+    {
+        "guid": "prosettings",
+        "imgs": [
+        	{
+        		"url":"",
+        		"desc": "专业拍照调节快门速度、白平衡、感光度、曝光补偿、调焦参数，可以拍出很多单反相机拍出来的效果。"
+        	},
+        	{
+        		"url":"file:///system/etc/gn_camera_feature/prosettings/info/1.jpg",
+        		"desc": "高速快门能捕捉运动主体的瞬间动作，中速快门能体现主体的运动感，低速快门能在光照条件较差的情况下增加曝光量。"
+        	},
+        	{
+        		"url":"file:///system/etc/gn_camera_feature/prosettings/info/2.jpg",
+        		"desc": "通过调整白平衡，使在各种光线条件下拍摄出的照片色彩和人眼所看到的景物色彩相同。"
+        	},
+        	{
+        		"url":"file:///system/etc/gn_camera_feature/prosettings/info/3.jpg",
+        		"desc": "对光线反应的敏感程度。感光度越高，越适合在光线昏暗的场所拍摄。"
+        	},
+        	{
+        		"url":"file:///system/etc/gn_camera_feature/prosettings/info/4.jpg",
+        		"desc": "曝光控制方式,增加曝光照片更亮，减少曝光照片更暗。"
+        	},
+        	{
+        		"url":"file:///system/etc/gn_camera_feature/prosettings/info/5.jpg",
+        		"desc": "对焦改变画面的清晰度和对焦方式。"
+        	}
+        ]
+    }
+]
